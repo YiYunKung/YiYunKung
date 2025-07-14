@@ -1,5 +1,6 @@
 # Welcome to my GitHub🫧
-![github profile](https://github.com/user-attachments/assets/8d1bef75-47c6-4845-a0c2-0e37f488f6b6)
+<img width="1804" height="674" alt="Workshop Structure" src="https://github.com/user-attachments/assets/d5f265c6-ba7a-4ec8-bebe-649306758627" />
+
 
 <br>
 
