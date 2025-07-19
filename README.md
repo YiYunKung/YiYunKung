@@ -2,34 +2,54 @@
 <img width="1804" height="674" alt="Workshop Structure" src="https://github.com/user-attachments/assets/d5f265c6-ba7a-4ec8-bebe-649306758627" />
 
 
-<br>
+<br><br>
 
-## Project
+## Projects
 
 以下包含我個人以及與團隊共同撰寫的專案，並在內文標示了團隊成員與分工。<br>
 有些專案是將課程所學知識加以應用，有些則是基於熱忱或特定目標而努力達成、實現，希望能展現這些作品的**亮點以及成長足跡**。
 
-### Game 🎮
-* [重力四子棋－網路連線遊戲](https://github.com/YiYunKung/Gravity4pieceChessGame)
+<br>
 
-* [Fruit Weirdo－雙人單機遊戲](https://github.com/YiYunKung/FruitWeirdoGame)
+### 🎮 Game
 
-* [太空飛船探險記](https://github.com/YiYunKung/SpacecraftGame)
+| Project Name | Repositories | Technologies Used |
+| --- | --- | --- |
+| 3D 投籃高手 | [basketball-shooting-game](https://github.com/YiYunKung/basketball-shooting-game) | Unity, C# |
+| 3D 骨牌機關連鎖反應 | [domino-mechanism-game](https://github.com/YiYunKung/domino-mechanism-game) | Unity, C# |
+| 3D 坦克車戰爭 | [tank-war-game](https://github.com/YiYunKung/tank-war-game) | Unity, C# |
+| 3D 太空飛船探險記 | [spacecraft-game](https://github.com/YiYunKung/spacecraft-game) | C++, OpenGL |
+| 重力四子棋－網路連線遊戲 | [gravity-board-game](https://github.com/YiYunKung/gravity-board-game) | Python (Socket, Threading, Tkinter GUI) |
+| Fruit Weirdo－雙人單機合作遊戲 | [fruit-weirdo-game](https://github.com/YiYunKung/fruit-weirdo-game) | C# |
+| 防疫大作戰 | [epidemic-prevention-game](https://github.com/YiYunKung/epidemic-prevention-game) | Python (Pygame) |
 
-* [防疫大作戰](https://github.com/YiYunKung/EpidemicPreventionGame)
-  
-* [暗影之城：勇者征途－探險尋寶RPG](https://github.com/YiYunKung/GroupUnityRPG)（完成度約40%）
+<br>
 
+### 📱 Application
 
-### Website / System 🖥️
-* [更貼近使用者的課程評價系統](https://github.com/YiYunKung/CourseEvaluationSystem)
-  
-* [SCOOL 多元自學平台](https://github.com/YiYunKung/OnlineLearningSystem)
-  
-* [嘉義大學生管系 招生網站](https://github.com/YiYunKung/NCYUTM_AdmissionWebsite)
+| Project Name | Repositories | Technologies Used |
+| --- | --- | --- |
+| 複利計算機 | [compound-interest-calculator-app](https://github.com/YiYunKung/compound-interest-calculator-app) | Flutter, Dart |
+| 系所成員介紹 | [department-members-app](https://github.com/YiYunKung/department-members-app) | Flutter, Dart |
+| 系所招生貼文 | [social-media-like-app](https://github.com/YiYunKung/social-media-like-app) | Flutter, Dart |
 
-### Others 🎨
-* [酷企鵝－OpenGL繪圖](https://github.com/YiYunKung/BadtzMaruDraw)
+<br>
+
+### 🖥️ Website / System
+
+| Project Name | Repositories | Technologies Used |
+| --- | --- | --- |
+| 更貼近使用者的課程評價系統 | [course-evaluation-system](https://github.com/YiYunKung/course-evaluation-system) | PHP, HTML, CSS, JS |
+| 多元自學平台 | [elearning-system](https://github.com/YiYunKung/elearning-system) | C# |
+| 大學系所招生網站 | [admissions-website](https://github.com/YiYunKung/admissions-website) | HTML, CSS, JS |
+
+<br>
+
+### 🎨 Others
+| Project Name | Repositories | Technologies Used |
+| --- | --- | --- |
+| 3D 角色動畫模型應用 | [character-animation-model](https://github.com/YiYunKung/character-animation-model) | Maya, Unity, C# |
+| 酷企鵝繪圖 | [badtzmaru-draw-opengl](https://github.com/YiYunKung/badtzmaru-draw-opengl) | C++, OpenGL |
 
 <br>
 
